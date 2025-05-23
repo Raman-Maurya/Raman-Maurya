@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **an AI project to Detect fake Medicines in India**
 
-- 🌱 I’m currently learning **Redux Toolkit**
-
 - 💬 Ask me about **backend issues and projects**
 
 - 📫 How to reach me **raman.2005kumar@gmail.com**
