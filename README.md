@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raman Maurya</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **an AI project to Detect fake Medicines in India**
 
-- 💬 Ask me about **backend issues and projects**
+- 💬 Ask me about **Data Structures and algorithm problems**
 
 - 📫 How to reach me **raman.2005kumar@gmail.com**
 
